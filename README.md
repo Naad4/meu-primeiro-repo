@@ -1,2 +1,2 @@
-# meu-primeiro-repo
+# hello-world
 Meu primeiro repositório pra testes
